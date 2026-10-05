@@ -1,0 +1,4 @@
+services:
+  scheduler:
+    volumes:
+      - "C:/python practice/content/ecommerce_data/1MB:/mnt/ecommerce_data:ro"
